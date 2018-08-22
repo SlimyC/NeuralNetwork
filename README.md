@@ -1,6 +1,9 @@
 # NeuralNetwork
+
+Created using Processing 3.3.6
+
 Warning!
-This was only meant for my eyes so it's not documented in any way.
+This was only meant for myself so it's not documented in any way.
 The code might also be quite messy and it's not really the best, but it works.
 
 
